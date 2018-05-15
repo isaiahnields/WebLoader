@@ -26,9 +26,21 @@ WebLoader is compatible with PhantomJS version 2.1.1 and above.
 
 1. Install PhantomJS for your operating system: http://phantomjs.org/download.html.
 2. Download the WebLoader repository and unzip the code.
-3. You're done!
+3. You're done! You are now able to run loader.js from the command line.
 
 ## Functionality
+
+There are two main ways to download a website with WebLoader:
+
+#### 1. Full
+
+A full website download involves downloading every page that is present on a given host. To run a full website download the following command must be run:
+
+'''bash
+phantomjs loader.js https://example.com/
+'''
+
+#### 2. Partial
 
 ## Use Cases
 
