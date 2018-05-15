@@ -26,3 +26,4 @@ A web scraper to spy on your business competitors!
 
 ## Future Goals
 
+See [Projects](https://github.com/isaiahnields/CompetitorScraper/projects).
