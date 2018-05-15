@@ -1,4 +1,4 @@
-# WebsiteDownloader
+# WebLoader
 A website downloader with a built in JavaScript engine!
 
 ![Build passing](https://img.shields.io/badge/build-passing-brightgreen.svg)
