@@ -1,5 +1,5 @@
 # WebLoader
-A website downloader with a built in JavaScript engine!
+A website downloader with a built-in JavaScript engine!
 
 ![Build passing](https://img.shields.io/badge/build-passing-brightgreen.svg)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/isaiahnields/SearchQueue/blob/master/LICENSE)
@@ -16,11 +16,17 @@ A website downloader with a built in JavaScript engine!
 
 ## Purpose
 
-
+The purpose of WebLoader is to give a user the ability to download portions of or entire websites.
 
 ## Compatibility
 
+WebLoader is compatible with PhantomJS version 2.1.1.
+
 ## Set Up
+
+1. [Install PhantomJS](http://phantomjs.org/download.html) for your operating system.
+2. Download the WebLoader repository and unzip the code.
+3. You're done!
 
 ## Functionality
 
