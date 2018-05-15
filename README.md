@@ -20,7 +20,7 @@ The purpose of WebLoader is to give a user the ability to download portions of o
 
 ## Compatibility
 
-WebLoader is compatible with PhantomJS version 2.1.1.
+WebLoader is compatible with PhantomJS version 2.1.1 and above.
 
 ## Set Up
 
