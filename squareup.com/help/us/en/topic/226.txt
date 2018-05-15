@@ -1,9 +1,0 @@
-HOME
-TOPICS
-Point of Sale
-Overview
-Taking Payments On A Mobile Device
-Taking Payments On A Computer
-Manage Payment Settings
-Receipts
-Issuing Refunds
