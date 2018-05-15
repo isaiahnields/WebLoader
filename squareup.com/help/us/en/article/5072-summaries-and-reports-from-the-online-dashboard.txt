@@ -1,0 +1,91 @@
+HOME
+TOPICS
+SALES HISTORY & REPORTS
+Summaries and Reports from the Online Dashboard
+
+Article Contents
+
+Reports Available Online
+View and Download Your Sales Summaries and Fees
+Download Your Transactions History
+Discover new insights about your business with Square’s analytics and advanced reporting options, and export your data to add it to your records. To get started, visit your online Square Dashboard.
+
+New to Square? Join our free, two-part education series to learn everything you need to know
+Part One:
+Compare Square’s fees across payment types.
+Choose the right hardware for your business.
+Set up your account for success.
+Create items to streamline sales and reports.
+Part Two:
+Accept payments using our hardware and software.
+Issue full and itemized refunds.
+Compare Square's deposit options.
+Run reports for sales, fees, and deposits.
+Register for Both Sessions
+Seller Community: Just getting started? Ask questions, get answers, and see how other Square Sellers use their reporting tools.
+Reports Available Online
+
+Reports Available Online	Report Summaries
+Sales Summary	A general overview of sales from a given time period. The report includes itemization metrics like gross sales, refunds, net sales, discounts, tips, and taxes. It also includes payment metrics like total collected (revenue by tender type) and fees.
+Sales Trends*	Compares your daily, weekly, and yearly gross sales.
+Payment Methods	A summary of the total collected and any associated fees from credit, debit and gift cards, and any other tender types.
+Employee Sales	Shows sales per employee, tips, average sale size and revenue per labor hour.
+Item Sales	Shows details for all items sold including gross sales, net sales, SKUs, discounts, and total sold. Use advanced reporting options to display item sales by device, employee, or payment method. Note: Click an item in your report to see an item drilldown – specific sales info on that item and all its variations.
+Category Sale	An overview of top grossing categories and the number of items sold within each category.
+Discounts	A list of the top used discounts and total discount amounts collected.
+Modifier Sales	A list of the top used modifiers in a given time period.
+Taxes	An overview of how your tax rates are being used in a given time period, including taxable and non-taxable sales. You’ll need to create items with applied tax rates to track “taxable” sales in your reports. Note: “taxable sales” may not add up to the “total” tax collected because some sales and items may have multiple tax rates applied.
+Transaction Status*	A list of any unprocessed transactions – declined cards, canceled payments, and other uncompleted transactions.
+Gift Cards	Tracks everything related to your Square gift card activity.
+Transactions	A list of individual transactions and transaction details from a given time period. Find this report in Transactions in your online dashboard.
+Deposits	A list of individual deposits and the payments included in each deposit, along with your entire deposit history. View this report in Deposits in your online dashboard.
+Cash Drawers	Tracks individual cash drawer sessions and your full cash drawer history. From your online dashboard, go to Cash Drawers to review this report.
+You also have the option to view some of these reports from your in app reporting in the Square Point of Sale app on your mobile device.
+
+View and Download Your Sales Summaries and Fees
+
+From your online Square Dashboard, visit Reports.
+Click the date-selector to refine a date range and then select a report to view. Note: Click the middle of the date-selector to see a full calendar view. 
+Select All Day or Custom to specify a time period for your report in hours. 
+To compare sales within the set date range by day, week, or month, click Summary > Daily, Weekly, or Monthly. Scroll down to view a sales summary comparison. 
+Select **All Locations **or manually choose locations to review.
+Click Export to download a CSV file to your computer, which you can open using Microsoft Excel or another common spreadsheet program or financial software.
+You can also connect to accounting and reporting services from the Square App Marketplace.
+
+Download Your Transactions History
+
+To see individual transactions from a specific time period, visit Transactions in your online Square Dashboard and follow steps 2-5 from the section above.
+
+Search by Payment Card
+
+You can also see the complete payment history for a specific card. To get started, you’ll need the last 4 digits of the card number.
+
+Complete steps 1-4 from the above section, “View and Download Your Sales Summaries and Fees.”
+In the “Search by card” field at the top-right, type in the last 4 digits to populate a list of transactions associated with this card.
+Learn more about:Square
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+1099-K Tax Reporting Information
+
+View Article
+What are Square's Fees?
+
+View Article
+1099-K Overview
+
+View Article
+Fees and Payments FAQs
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

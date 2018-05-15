@@ -1,0 +1,66 @@
+HOME
+TOPICS
+EMPLOYEE SETTINGS
+Timecard Management with Square
+
+Article Contents
+
+Turn on Timecard Tracking
+Manager Timecard Controls
+Employee Clock In/Out
+If you’re using Employee Management, your employees can clock in and out directly from the Square app. You can manage your employees’ timecards from your online Square Dashboard. 
+
+
+Turn on Timecard Tracking
+
+Log into the app and visit Settings > Employee Management > toggle “Track Time from Point of Sale” on.
+
+If you’ve paired a device to a specific location, you’ll need to make sure that your employees have permission to work in that location. To check, go to Employee List in your online Square Dashboard and click the employee name to make sure the correct locations are selected.
+
+Manager Timecard Controls
+
+From your online Dashboard, you can modify timecards, view time tracking reports, or clock employees out if they forget. 
+
+Timecard Report: Export a Timecard Report as a CSV file with the employee name, location, and total hours worked.
+Open Timecards: View timecards for employees who clocked in but haven’t clocked out. You can Clock Out employees here.
+View Shift History: Create a new timecard or edit saved timecards.
+Employee Clock In/Out
+
+Before you can track employee hours, you’ll need to assign each employee a Point of Sale passcode so they can clock in and out of the app.
+
+To clock in or out on a tablet, your employees can tap the clock icon in the bottom-right of the Square app:
+
+
+
+On a phone, employees need to follow the steps below:
+
+Tap: or the down arrow at the top of the Square Register: 
+Tap Clock In/Out.
+Note: Mobile cashiers signing in to the Square app with their own login will not be prompted to enter a Point of Sale passcode to clock in or out.
+Learn more about:Employee Management
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Start Using Timecards with Square Payroll
+
+View Article
+When I Work and Square
+
+View Article
+Get Started with Employee Management
+
+View Article
+Manage Passcode Access
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

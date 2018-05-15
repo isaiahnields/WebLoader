@@ -1,0 +1,75 @@
+HOME
+TOPICS
+Add an Administrator or Authorized Representative
+
+Article Contents
+
+Account Administrator vs. Authorized Representative
+Add an Account Administrator
+Add an Authorized Representative
+Remove Authorized Representative
+Contact Square as an Authorized Representative
+Grant account access to employees and associates according to your needs by adding them as Account Administrators or Authorized Representatives.
+
+Account Administrator vs. Authorized Representative
+
+Account Administrator
+
+An Account Administrator is any employee you grant full access to your account and Square Point of Sale app. Add Administrators using Employee Management.
+
+Authorized Representative
+
+An Authorized Representative is someone you’ve designated to have access to some of your account information and transaction details. Once someone has been added to your account as an Authorized Representative, they will be able to call Square Support and take limited actions on your account.
+
+Note: There is no cost to adding Authorized Representatives to your account, unless they are assigned a role using Employee Management permissions.
+
+An Authorized Representative can:
+
+Discuss transactions, deposits, and other account-specific details.
+Request Square update the business’s Merchant Category Code (MCC), shipping address, and public profile.
+Request Square remove an old bank account if a new account has been added.
+As a reminder, per Square’s Terms and Conditions that you have agreed to, you are fully responsible for all activity that occurs under your Square Account, including any actions taken by persons to whom you have granted access to the Square Account.
+
+Add an Account Administrator
+
+To create a new Account Administrator:
+
+Select or create a new employee.
+Click Role > Select Administrator.
+Click Save.
+Add an Authorized Representative
+
+To add an Authorized Representative:
+
+Sign in to the Account & Settings section of your online Square Dashboard > Authorized Representatives.
+Click Create New Authorized Representative.
+Enter the Authorized Representative’s name, email address, and/or mobile phone number. Note: The person being added as an Authorized Representative will receive a notification via email or SMS message to their mobile phone, depending the information entered. Only one piece of contact information is required.
+Confirm.
+Note: You must include a mobile phone number if you’d like Authorized Representatives to receive their verification code via phone instead of email. Verification codes cannot be sent to land lines.
+
+At this point, you’ll receive an email notification to confirm you have taken this action on your account. There is no further action needed on your part.
+
+Remove Authorized Representative
+
+To remove an Authorized Representative:
+
+Sign in to the Account & Settings section of your online Square Dashboard > Authorized Representatives.
+Select the Authorized Representative you’d like to remove.
+Click Remove.
+Deactivating an Authorized Representative’s profile from the Employees tab of your Dashboard will also remove them from your Authorized Representative list.
+
+Contact Square as an Authorized Representative
+
+Once added, an Authorized Representative can call Square Customer Support with the account’s Customer Code and our Support team will be there to help.
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

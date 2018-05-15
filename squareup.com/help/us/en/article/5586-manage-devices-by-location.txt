@@ -1,0 +1,61 @@
+HOME
+TOPICS
+Manage Devices by Location
+
+Article Contents
+
+Create Device Codes
+Reset or Deactivate a Device Code
+With Employee Management, multiple employees can log in to the Square app from a single device (without having to enter an email address or password) using Device Codes. Device Codes can also pair a phone or tablet to a specific location, allowing for device-level reporting. Devices Codes cannot be used to access your online Square Dashboard or account settings.
+
+When you create a Device Code for the first time, you’ll be asked to assign the device to a specific location. You can create and edit locations anytime from your online Square Dashboard.
+
+Create Device Codes
+
+From Account & Settings in your online Square Dashboard, click Devices.
+Click Create Device.
+Enter a Nickname and click Create to generate your code.
+Choose to send your code via email or phone number and tap Send.
+Open the Square app on your mobile device and tap Sign In.
+Tap “Use a Device Code” and enter the code.
+The device status in your dashboard should say Active.
+
+If you have employees, they can clock in with their employee passcode and will have access based on their employee permission group. 
+
+Note: If not used within 48 hours, a device code will expire and you’ll need to reset it to sign in to the Square app.
+
+Reset or Deactivate a Device Code
+
+If your device is misplaced or stolen, you can reset your device code from Devices in your online Square Dashboard. To do so:
+
+Click the device to reset or deactivate.
+Click Reset Device Login or Deactivate and confirm your request.
+If you reset, you’ll be given a new device code.
+For basic device code troubleshooting, update your device’s software and update the Square app.
+Learn more about:Multi-Location Management
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Get Started with Employee Management
+
+View Article
+Sign In and Out of Square Point of Sale
+
+View Article
+Create Multiple Square Point Of Sale Accounts
+
+View Article
+Manage Passcode Access
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

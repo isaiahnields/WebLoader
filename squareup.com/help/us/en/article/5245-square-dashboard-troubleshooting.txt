@@ -1,0 +1,64 @@
+HOME
+TOPICS
+TROUBLESHOOTING
+Square Dashboard Troubleshooting
+
+Article Contents
+
+Common Browser Issues
+Browser Troubleshooting
+Enable Cookies
+Common Browser Issues
+
+If you have trouble with your online Square Dashboard, you may be experiencing an issue with your Internet browser. Common issues include:
+
+Trouble logging in to your account using correct login information
+Trouble updating your online Square Dashboard (including trouble uploading your logo and profile images) 
+Outdated information or information not displaying correctly
+Seeing a blank dashboard 
+Browser Troubleshooting
+
+For browser issues, try the following troubleshooting tips:
+
+Make sure that your browser is up to date. Here are instructions for how to do so for our supported desktop browsers: Chrome, Edge, Firefox and Safari.
+Clear the cache on your browser. Instructions for clearing your cache will vary depending on your browser. Accessing the Help menu on your browser should allow you to locate step-by-step instructions.
+Switch to a different browser: Chrome, Safari, Edge or Firefox. Double check that you are running the most up to date version of these browsers.
+Please note: Internet Explorer is not supported by Square Dashboard.
+
+Enable Cookies
+
+Square’s login page requires that your browser have cookies enabled. To make sure cookies are enabled in your browser, click the link below corresponding to your browser type and follow the instructions listed on the page to enable cookies. Once this is done, navigate back to your online Square Dashboard to return to Square’s login page and try signing in again.
+
+Here’s how to enable cookies for some of the most popular web browsers:
+
+Google Chrome
+Firefox
+Safari
+Edge
+Learn more about:Point of Sale
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Square’s Information Collection Policies
+
+View Article
+Square Point of Sale App Troubleshooting
+
+View Article
+Sign Up Troubleshooting
+
+View Article
+Set Up and Edit Your Online Store
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

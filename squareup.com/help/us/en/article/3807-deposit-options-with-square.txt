@@ -1,0 +1,93 @@
+HOME
+TOPICS
+BANK ACCOUNTS & DEPOSITS
+Deposit Options with Square
+
+Article Contents
+
+Deposit Options
+Instant Deposits
+Scheduled Deposit
+Next Business Day Overview
+Once you have accepted payments with the Square Point of Sale app, you can choose to receive your funds through one of our three deposit options. There are no deposit limits with our default, next day deposit schedule. We won’t hold funds based on the amount, frequency, or type of transaction.
+
+
+New to Square? Join our free, two-part education series to learn everything you need to know
+Part One:
+Compare Square’s fees across payment types.
+Choose the right hardware for your business.
+Set up your account for success.
+Create items to streamline sales and reports.
+Part Two:
+Accept payments using our hardware and software.
+Issue full and itemized refunds.
+Compare Square's deposit options.
+Run reports for sales, fees, and deposits.
+Register for Both Sessions
+Deposit Options
+
+
+
+Instant Deposits
+
+The quickest way to get your money is to take advantage of Square’s Instant Deposits.
+
+Sometimes you need your money immediately – that’s when Instant Deposit can help. If available on your account, you can instantly send funds to your linked bank account using a debit card 24 hours a day, 7 days week, for a fee of 1% of the deposit total.
+
+While Instant Deposits are easy to send to your bank account you will need a few things before you can get started:
+
+Link a bank account and a supported U.S.-issued Visa or MasterCard debit card to your Square account.
+Make sure you have at least $50, after processing fees, in your Square Balance.
+Once you’ve set your account up for instant deposits, you can start receiving your money immediately!
+
+We have more information on how to send your first instant deposit.
+
+Note: New sellers start with a limit of one instant deposit per day of up to $500. As you run and grow your business with Square, a higher daily deposit amount may become available.
+
+Seller Community: Ask questions, get answers, and hear how other Square sellers are using Instant Deposit.
+Scheduled Deposit
+
+Scheduled Deposits have the speed of Instant Deposits, without the hassle. If you routinely need your funds faster than one to two business days, Scheduled Deposit may be available to automatically deposit your funds at your close of day. Using a debit card, funds are sent to your linked bank account for a fee of 1% of the deposit total.
+
+Your funds will routinely be sent to your linked debit card 15 minutes after your close of day, every day.
+
+To use Scheduled Deposit, you must have a minimum balance of $1 after Square’s fees. You can send payments as large as $10,000. If your daily balance exceeds $10,000, you’ll receive multiple deposits from Square. There is one exception: Individual payments greater than $10,000 won’t be sent via Scheduled Deposit or Instant Deposit. When this occurs, these payments will be sent via Next Business Day deposit and will be available within one to two business days to your linked bank account.
+
+Because Scheduled Deposits works just like Instant Deposits, any funds which do not qualify will be sent on our Next Day Deposit Schedule.
+
+Learn more about setting up your first Scheduled Deposit.
+
+Next Business Day Overview
+
+When you activate your Square account, by default your deposit option will be Next Business Day. With this schedule, your funds are usually deposited within one to two business days of a transaction. Regardless of your transaction amounts, types or frequency, deposits are initiated Monday through Thursday evening for payments taken Monday through Thursday and will arrive in your linked bank account in one to two business days. Payments taken on Friday will be sent Sunday night and will arrive in your bank account on Monday (or Tuesday if Monday is a bank holiday).
+
+The only thing you have to do is link a supported bank account for your money to be sent to.
+
+Our Next Business Day schedule article has all of the information you will need to review daily deposit times, and learn how to set your close of day.
+Learn more about:Payment Processing
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Link and Edit Your Bank Account
+
+View Article
+Bank Account FAQs
+
+View Article
+Bank Account Debits and Withdrawals
+
+View Article
+Locate Deposits
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

@@ -1,0 +1,47 @@
+HOME
+TOPICS
+CUSTOMER ENGAGEMENT
+Customer Engagement for Multiple Location Businesses
+
+Article Contents
+
+Customer Directory and Multiple Locations
+Loyalty and Multiple Locations
+If you’re using Square to manage multiple business locations, you can use our Customer Engagement tools to view and interact with customers from each location. Just visit each section in Customers in your online Square Dashboard and select the location you’d like to view data for, or send marketing emails from, in the drop-down menu.
+
+Customer Directory and Multiple Locations
+
+Your Customer Directory is a single list that includes customers that visit all of your locations. The directory can be managed from either your master dashboard or an individual location’s dashboard.
+
+Because these lists used to be separate, you may want to check your directory and merge any duplicate entries.
+
+Loyalty and Multiple Locations
+
+If your business has more than one location, you can create a Loyalty program, that will work at any or all of your locations for $25 per location per month. Your customers can earn stars and redeem rewards at any of your locations. Learn more about creating a loyalty program for multiple locations.
+Learn more about:Customer Engagement
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Using Automated Campaigns
+
+View Article
+Manage Your Customer Directory from the Square App
+
+View Article
+Get Started with Customer Engagement
+
+View Article
+Get Started with Square Feedback
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

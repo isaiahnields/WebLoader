@@ -1,0 +1,174 @@
+HOME
+TOPICS
+GET STARTED
+Square Dashboard Overview
+
+Article Contents
+
+Home
+Sales
+Items
+Employees
+Customers
+Appointments
+Capital
+Invoices
+Virtual Terminal
+Gift Cards
+Loyalty
+Marketing
+Online Store
+Timecards
+Payroll
+Apps
+Account & Settings
+Your online Square Dashboard gives you access to the tools you need to manage your daily business operations. See how your business is doing with advanced reporting tools, manage timecards and employees, and create marketing campaigns that help you stay in touch with customers – all in one place.
+
+Home
+
+Home provides a snapshot of your daily business activities – your next deposit amount, top selling items, feedback from your customers, and more. The widgets in your Home tab can be reordered via drag-and-drop or removed by clicking on the grid icon in the upper-right corner.
+
+
+
+Sales
+
+Get insights on what’s driving sales, how customers are paying, and where that money is going from your Sales tab:
+
+Reports: Access general sales summaries and fees paid, create custom reports, and view reports on sales trends, accepted payment methods, items sold, etc.
+Transactions: Review details on individual transactions, including customer-facing receipts and payment signatures.
+Deposits: See your next deposit amount, full deposit history, and a breakdown of the transactions included in each deposit. You can also adjust your close of day. 
+Cash Drawers: Track your cash drawer history and individual drawer sessions. Note: This is only available to customers with Cash Management enabled. 
+Items
+
+Creating an Item Library helps you quickly add items to sales, manage taxes, track inventory, and build insightful reports on what’s selling. Having Items is also useful when sending Square Marketing campaigns and setting up Square Loyalty programs for specific products.
+
+Item Library: Items help speed up payments, manage pricing and taxes, and track inventory.
+Modifiers: Create a set of options that can be applied to an Item to speed up check out.
+Categories: Organize Items into categories for faster access and useful reporting.
+Discounts: Create and manage discounts that can be applied to a sale.
+Taxes: Set up and manage applicable taxes for your sales.
+Dining Options: Create dining options which will be applied to kitchen tickets, receipts, and reports.
+Employees
+
+Create permission groups and employees, then track shifts and timecards by Employee. Manage your entire staff in a few clicks, allowing your team to take payments while keeping dashboard access secure.
+
+Permissions: Create predefined roles for current and future employees that set permissions for what they can access in your Square app and dashboard.
+Employee List: Create employee profiles with assigned roles and passcodes for your Square app and dashboard.
+Customers
+
+Access tools to help you to better manage, understand, and engage with your customers.
+
+Insights: View your customers’ payment activity and level of satisfaction. 
+Directory: Keep track of your customers by building customer profiles.
+Feedback: See feedback from your customers about their experiences with your business and reply to them personally. 
+Appointments
+
+Simple online scheduling, calendar management, and payment acceptance for services booked online are available with Square Appointments.
+
+Head to Appointments to try it free for 30 days.
+
+Overview: View upcoming appointments and notifications for services booked online.
+Calendar: Manage your calendar, create appointments, and set custom availability for online booking.
+Online Booking: Edit and view your Online Booking Site, create embeddable widgets for your website, invite clients to book online, and set a custom display order for services booked online.
+Services: Create, price, and assign services to staff members.
+Staff: Create Staff profiles and set access permissions and hours for employees.
+Clients: Add and edit client profiles with contact information, notes, and communication preferences.
+Settings: Manage online booking and calendar preferences, set up online prepayments and No-Show protection, and edit client communications.
+Capital
+
+Square Capital gives you funds to grow your business, repay your loan with a fixed percentage of your daily card sales.
+
+Invoices
+
+Manage everything invoice related – create new invoices, see outstanding or unpaid invoices, review your invoice payment history, and more.
+
+Virtual Terminal
+
+Manually key in payments from your Square Dashboard with Square Virtual Terminal. Your payments will be tracked and deposited along with all of your other payments, no need for extra hardware or apps to take payments.
+
+Learn more about using Virtual Terminal in our Support Center.
+
+Gift Cards
+
+Order and set up physical Square Gift Cards and eGift Cards for your business.
+
+Loyalty
+
+Allow your customers opt in to your loyalty program at checkout simply by entering their phone number to earn stars and rewards automatically.
+
+Marketing
+
+Send your customers personalized marketing emails, automated campaigns, and promotions with our email tool and distribution list.
+
+Online Store
+
+From Online Store, set up your free store to sell goods, services, event tickets, and even accept donations.
+
+Timecards
+
+Manage and edit your employee’s hours right from your Square Dashboard.
+
+Activity: View, create, and edit individual timecards.
+Report: View timecard reports by employee.
+Settings: Set Overtime rules for each location and select a Work Period.
+Payroll
+
+Square’s online payroll services have you covered for tax filings, sick leave, workers’ comp, and more. Square Payroll imports your employee’s timecards from the Square app, calculates overtime, and handles taxes so you can pay your team faster.
+
+Apps
+
+Square seamlessly syncs with apps that help you manage everything from accounting and taxes, to inventory, eCommerce, shipping, and restaurant management.
+
+Visit Apps to explore our Square Marketplace Apps and learn more about Square Connect API.
+
+Account & Settings
+
+Account & Settings is where you can manage your personal account information, business information, and place an order for Square hardware and marketing material.
+
+Account
+
+Personal Information: Manage your account email address and enable security features that prevent unauthorized access.
+Bank Accounts: Manage bank accounts across locations.
+Email Notifications: Tell us what emails you’d like to receive from Square and add more recipients.
+Get Free Processing: Your invite link gets you free processing when someone uses it to sign up for Square.
+Business
+
+Locations: Create and manage multiple locations for your business. Set bank details, hours, device codes, and more.
+Pricing & Subscriptions: View and manage your subscription services, view monthly bills, and update your preferred payment method.
+Deposits: Set a custom daily deposit schedule so you can get your money when you need it.
+Receipt: View and manage your receipt appearance, public information, return policy, and more.
+Tax Forms: Update your taxpayer information and view 1099-K Forms.
+Devices: Set up device codes that sign you into the Square app instead of your email and password.
+Square Accessories
+
+Card Reader: Request a free magstripe reader or order a chip card and Apple Pay reader.
+Sticker Sheet: Let your customers know you accept credit cards with Square.
+Order a Stand: The Square Stand gives you a complete POS solution minus the clutter.
+Order Status: View your hardware order history and status.
+Learn more about:Square
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Edit Your Account and Business Settings
+
+View Article
+Square Get Started Guide
+
+View Article
+Square Account FAQs
+
+View Article
+1099-K Overview
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

@@ -1,0 +1,64 @@
+HOME
+TOPICS
+ITEMS & DISCOUNTS
+Create and Manage Discounts
+
+Article Contents
+
+Create and Manage Discounts with the Square App
+Create and Manage Promo Codes for the Online Store
+Promo Codes with Multiple Location Management
+Create and edit discounts from your online Square Dashboard or from the Square app. After you’ve set up discounts, learn how to apply them at checkout.
+
+Note: If you’d like to create a variable discount so you can enter the amount at checkout, leave the discount field blank.
+
+Create and Manage Discounts with the Square App
+
+Tap the three horizontal lines at the top-left corner and tap Items.
+Tap Discounts > Create Discount or select a discount to modify.
+Enter the discount details and tap Save.
+Create and Manage Promo Codes for the Online Store
+
+To create a promo code – a discount for online purchases – for your customers to add to their online orders:
+
+Visit the Items section of your your online Square Dashboard > Discounts.
+Click Create Discount to add a new discount or select an existing one to update.
+Toggle on “Passcode Required” to restrict the ability to apply the discount to certain employees.
+Toggle on “Make this discount available in your online store” to allow customers to apply a promo code to their order.
+Enter the promo code details and click Save.
+It’s important to note that discounts can’t be applied to individual items at this time.
+
+Promo Codes with Multiple Location Management
+
+Follow these steps to create promo codes as you use Square’s multiple location management features:
+
+Go to Items in your online Square Dashboard and click an item in your library.
+Under Inventory, choose a location and click Go.
+Then follow steps 1-4 from the section above to complete your updates.
+Learn more about:Dashboard
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Create and Manage Items with Square Point of Sale
+
+View Article
+Apply Discounts
+
+View Article
+Create and Manage Items Online
+
+View Article
+Create and Manage Item Modifiers
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

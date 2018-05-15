@@ -1,0 +1,79 @@
+HOME
+TOPICS
+Get Started with Square Loyalty
+
+Article Contents
+
+Square Loyalty Pricing
+Set Up Your Loyalty Program
+Enroll Your Customers
+Applying Rewards to Purchases
+With Square Loyalty, you can create a digital rewards program that will keep your customers coming back again and again – with incentives they earn with each purchase.
+
+Square Loyalty Pricing
+
+Square’s Loyalty program subscription cost is based on your customer’s participation with your program. This participation is based on the number of qualifying Loyalty Visits within a given month.
+
+Read more about Square Loyalty Pricing.
+
+Here’s how it works:
+
+Your customers earn stars and rewards for every purchase they make, even when they use cash. They don’t need to receive a digital receipt in order to accumulate stars – simply have your customer enter their phone number after they check out. Your customers will be notified via SMS when they sign up with a link to their status page, and each time they earn a reward.
+
+You can look up your customer’s reward status using their phone number, so you can reward your regulars and keep your line moving fast. You can also customize your reward program so that you’re incentivizing the best possible customer interaction. Your customers can either earn a star per transaction, item purchased, or earn a star every time they spend a certain amount – so they could earn multiple stars per purchase (i.e. your customers could earn a star every time they spend $10).
+
+Note: Rewards are eligible for a configurable length of time, from 1 month to 1 calendar year from the date they are issued. The expiration time can be set during the Set Rewards step when creating your program.
+
+Note: Customers do not accrue stars for purchases made through your online store at this time.
+
+Seller Community: “We tell our customers face to face that we’ve switched to the virtual punch card that’s stored by their phone number. Everyone seems really excited about it, and they’re catching on. I let them push their own phone number in too. I think it adds to their experience.” - LSBS
+Set Up Your Loyalty Program
+
+Create a Loyalty program with Square by setting up how your customers will earn rewards, be rewarded, and at which locations they can participate.
+
+Enroll Your Customers
+
+After you’ve set up and activated your Loyalty program and subscription, the new Loyalty enrollment screens will appear in your register app. A screen inviting your customers to enroll in your loyalty program will appear after each transaction regardless of whether their purchase has earned them a star or reward.
+
+You also have the option to manually enroll a customer from their profile in your Customer Directory.
+
+Enroll your customers during a purchase:
+
+Process a sale the same way you normally would.
+After the sale has been completed and your customer has passed the receipt screen, they’ll reach the Loyalty Screen.
+Your customer enters their 10-digit phone number to opt-in the your loyalty program.
+They’ll receive an SMS indicating they’ve been enrolled and, if applicable, earned their first star, along with a link to their loyalty program status.
+Enroll your customers from your Customer Directory:
+
+Head to the Customers section of your online Square Dashboard or Square app.
+Select or create a customer profile.
+Under the Loyalty section, click or tap Create Account.
+Enter the customer’s mobile phone number.
+Save.
+Note: Your customer will receive occasional SMS messages about your loyalty program, such as reward notifications. They can unsubscribe from SMS messages at any time.
+
+They may also request a link to their status page after checkout by tapping on the gray phone number field in the loyalty screen.
+
+Your customer’s loyalty account number is connected to their phone number. They can pay with different credit cards, checks, gift cards or cash, and still earn stars towards rewards by entering the same phone number.
+
+Applying Rewards to Purchases
+
+Visit your item library by tapping this icon: 
+Tap Redeem Rewards.
+Enter your customer’s 10- digit phone number to search for available rewards.
+Tap reward to apply it to the current sale.
+Continue check-out as normal.
+Learn about managing and promoting your Square Loyalty program.
+Learn more about:Customer Loyalty
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

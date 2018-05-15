@@ -1,0 +1,53 @@
+HOME
+TOPICS
+CUSTOMER ENGAGEMENT
+How to Use Customer Insights
+
+Article Contents
+
+New vs. Returning Customer Performance Graph
+Customer Visit Frequency Graph
+Customer Insights can help you better understand your customers’ behaviors through their payments. By having reporting and analytics software, you can uncover these insights to continue doing what’s working and to inform future business decisions. Visit your online Square Dashboard to get started.
+
+Note: All insights are based on credit and debit card transactions only. Cash transactions aren’t included at this time.
+
+Customer Insights is part of our full suite of Customer Engagement features.
+
+New vs. Returning Customer Performance Graph
+
+The New vs. Returning Customer Performance shows your Total Visits and sales breakdown by new vs. returning customers over the specified time period. Customers are currently identified by the payment card they use. 
+
+Returning Customers: Patrons who’ve made a purchase at your business before and have paid with the same payment card. 
+New Customers: Patrons who use a payment card that hasn’t previously been accepted at your business.  
+Customer Visit Frequency Graph
+
+The Customer Visit Frequency graph displays the frequency of your customer visits over a specific time period. Use this chart to better understand your distribution of customers by visit count, which is a good indicator of overall customer loyalty and retention.  
+
+Example: 1-time visitors are those who’ve only made one purchase at your business; 2-time visitors are those who’ve only made two purchases (with the same payment card) at your business; and so on. 
+Learn more about:Customer Engagement
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Using Automated Campaigns
+
+View Article
+Manage Your Customer Directory from the Square App
+
+View Article
+Customer Engagement for Multiple Location Businesses
+
+View Article
+Get Started with Customer Engagement
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

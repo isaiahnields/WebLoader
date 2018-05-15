@@ -1,0 +1,58 @@
+HOME
+TOPICS
+SALES HISTORY & REPORTS
+Advanced Reporting
+Square’s advanced reporting options give you deeper insight into the mechanics of your business. To use advanced options, visit your online Square Dashboard and use the Filter By and Display By options.
+
+Filter
+
+Filters can be used to refine the data displayed in existing reports. To get started with filters:
+
+Visit Sales in your online Square Dashboard.
+Click the date-selector tool to view a specific timeframe. Note: Click the middle of the date-selector to see a full calendar view.
+Click the location-selector tool to view a specific location.
+Select Advanced Options and click one or more filters to apply to your report.
+To download your Summary report as a CSV file, click Export in the top-right corner. 
+Note: At the moment, advanced reporting data is available in exported Summary CSV reports, but will not show in your exported Detail CSV reports.
+
+Note: Reports will also include data for items that have been deleted from your Item Library.
+
+
+
+Display
+
+You can drill down further with display options, which can be used together with filters.
+
+Visit Sales on your online dashboard.
+Click the date-selector tool to adjust the time period of your report. Note: For a full calendar view, click the middle of the date selector.
+Select a report to view. For example, click Item Sales > Advanced Options > and choose your filter and display option.
+Click each row to expand details further.
+To download your report as a CSV, click Export in the top-right. 
+To see all of your most useful reports on one printable page, use your Custom Report Builder. Learn more about your online summaries and reports. 
+Learn more about:Dashboard
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Match Deposits To Sales
+
+View Article
+Summaries and Reports from the Online Dashboard
+
+View Article
+In-App Summaries and Reports
+
+View Article
+Transaction Status Report
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

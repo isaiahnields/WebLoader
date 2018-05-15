@@ -1,0 +1,87 @@
+HOME
+TOPICS
+BANK & DEPOSITS
+Link and Edit Your Bank Account
+
+Article Contents
+
+Add and Edit Your Bank Account
+Receive Deposits from Square POS into Cash App
+Link your bank account from your Dashboard or the Square app to have your money deposited within 1-2 business days. 
+
+
+New to Square? Join our free, two-part education series to learn everything you need to know
+Part One:
+Compare Square’s fees across payment types.
+Choose the right hardware for your business.
+Set up your account for success.
+Create items to streamline sales and reports.
+Part Two:
+Accept payments using our hardware and software.
+Issue full and itemized refunds.
+Compare Square's deposit options.
+Run reports for sales, fees, and deposits.
+Register for Both Sessions
+If you have a multiple location business, each location can share a single bank account or you can link a unique bank account to each one. 
+You can link your bank account from your Dashboard or the Square app to start receiving your funds on any one of our Deposit schedules. If you already have an account linked, you can change it at any time so you can receive your funds where you need them.
+
+There are a few things to note before you get started:
+
+You will need to link a United States bank account to process payments using a U.S. Square Account.
+Square requires a transactional bank account (an account that allows for both deposits and withdrawals) to support refunds or chargebacks. Which means Prepaid cards or online-only accounts (such as PayPal) aren’t supported at this time.
+You will need your full routing and bank account number to link your bank account.
+If you have multiple location business, each location can share a single bank account or you can link a unique bank account to each one.
+
+Add and Edit Your Bank Account
+
+Before you receive your first deposit from Square, you will need to add a verified bank account to your Square account. You can start the verification process right from your Square Dashboard or Square App.
+
+Add and Edit Your Bank Account Online
+
+Sign in to Account & Settings > Bank Accounts. If you are changing your bank account, select Edit Bank Account.
+Enter the following information: the account holder’s name, the routing number, and account number.  You can find this information listed at the bottom of your checks, or you can contact your bank to confirm this information.
+
+3. Click Verify. Note: If you are changing your bank account, you will need to enter your Square account password and check your email for a confirmation from Square. Click the link within 24 hours to confirm the bank account change.
+
+Add Your Bank Account from the Square App
+
+Tap: 
+Tap Settings > Link Bank Account. Note: If you are using an Android device, you will need to tap Settings > Bank Account > Link Bank Account.
+Enter the following information: the account holder’s name, the routing number, and account number (usually listed at the bottom of your checks).
+Click Continue. 
+Learn what to do if you are having trouble linking your bank account.
+
+Note: Until your new bank account is verified, we’ll continue to send deposits to your currently linked account. If you’d like to unlink your current bank account, contact us. This will allow your deposits to remain in your Square balance until your new account is verified. 
+
+Receive Deposits from Square POS into Cash App
+
+If you have a Cash App account, you are able to receive deposits from your Square POS account into your Cash App. You can do this using your Cash App Account and Routing number.
+
+Note: This option is available for standard deposits only (not instant deposits).
+Learn more about:Square
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Set Up and Manage Instant Deposits
+
+View Article
+Next Business Day Deposit Schedule
+
+View Article
+Customize your Close of Day
+
+View Article
+Deposit Options FAQs
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

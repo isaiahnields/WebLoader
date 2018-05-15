@@ -1,0 +1,54 @@
+HOME
+TOPICS
+Creating Custom Reports in the Online Dashboard
+
+Article Contents
+
+Custom Reports Overview
+Create a Custom Report
+If you need unique and specific reporting, you can create custom reports designed for your business right from your Square Account.
+
+Custom Reports Overview
+
+See all of your favorite reports in one place with Custom Reports in your online Square Dashboard. You can create customized, printer-friendly reports in minutes.
+
+Note: The ability to export custom reports is not currently available, but this feature is coming soon.
+
+Each Custom Report starts with Sales Summary details about your business, and from there you can add all of the reports you’d like to see. To add a new report, click Add Report at the bottom of the page. To remove a report, click the circled X in the upper-right corner.
+
+You can add the following blocks to your Custom Reports:
+
+Key Statistics
+Sales Summary
+Payment Methods
+Item Sales
+Category Sales
+Employee Sales
+Discounts
+Modifier Sales
+Taxes
+Create a Custom Report
+
+To get started creating a custom reports for your business, follow these steps:
+
+From your online Square Dashboard, visit Reports.
+Click Create New Report.
+Name your report > add and remove blocks to customize it.
+Click Add Report to add additional blocks. Hover over each section to reveal options to filter or add/remove columns
+Click Save Changes.
+Once your Custom Report has been created, use the date-selector to specify the date range for your report. The date range updated at any time, to provide new insights into your business.
+
+Note: The ability to save the date/time filters to your Custom Reports is not currently available.
+Learn more about:Dashboard
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

@@ -1,0 +1,57 @@
+HOME
+TOPICS
+SALES HISTORY & REPORTS
+Reporting and Analytics for Your Gift Cards
+
+Article Contents
+
+View and Download Reports
+Multiple Location Reporting
+From Reports in your online Square Dashboard, you can easily view and export data about your gift card sales and redemptions.
+
+View and Download Reports
+
+From your online Square Dashboard, click Sales > Reports.
+Click Gift Cards. Use the date selector at the top-left of the page to refine the date range.
+To download this data as a CSV file to your computer, click Export and select either Gift Card Details or Gift Card Summary. You can open this file using Microsoft Excel or another common spreadsheet program or financial software.
+Note: The amount reported under Activations is the total loaded onto gift cards and does not account for discounted gift cards. For example, if you sold a $100 gift card for $80, we’ll report the $100 under Activations. You can view how much you were actually paid for gift card sales from the Sales Summary report in your online Square Dashboard under Gift Card Sales.
+
+Note: You can check the balance on all outstanding gift cards you’ve issued to date. To do so, use the Gift Card Details report that shows the Gift Card pan suffix, initial load date, last loaded date, last date the card was used, and the outstanding balance.
+
+Gift Card Sales
+
+The sale of a gift card is recorded separately from your product sales. Your gross and net sales will exclude gift card sales.
+
+Multiple Location Reporting
+
+To track your gift cards from multiple locations, take a look at the Inter-Location Payables & Receivables report in the Gift Card tab of your Square Dashboard.
+
+This report shows gift card sales between your locations for the time frame selected. When value is loaded onto a gift card, that location receives the gift card funds up front. A location that redeems gift card value is owed sales value by the loading location.
+
+Receivable is the gift card value spent at this location that was loaded at another location.
+Payable is the gift card value loaded at this location that was spent at another location.
+
+Read more in the Square Glossary under Reporting Terms.
+Learn more about:Gift Cards
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+In-App Summaries and Reports
+
+View Article
+Transaction Status Report
+
+View Article
+Advanced Reporting
+
+View Article
+Reporting and Analytics with Multiple Employees and Locations
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 

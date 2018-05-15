@@ -1,0 +1,122 @@
+HOME
+TOPICS
+ITEMS & DISCOUNTS
+Basic Inventory Management
+
+Article Contents
+
+Manage Inventory on Item Editor
+Manage Inventory and Alerts In Bulk
+Stock Actions
+History
+Square’s inventory management gives you basic tools to keep a clear count of in-stock items in your item library. For items with inventory enabled, the stock count will update based on sales from the Square app, Square Invoices, and for orders shipped through your online store.
+
+To use inventory management, make sure you’re running the latest version of the Square app on your mobile device.
+
+New to managing inventory? Make sure to check out our best practices for inventory management.
+
+Seller Community: Ask questions, get answers, and hear how other Square sellers are using inventory management.
+Need more robust inventory management features? Explore Square for Retail.
+
+Manage Inventory on Item Editor
+
+Manage Inventory by Item
+
+With inventory enabled, you can receive alerts in your dashboard for low-stock or sold out items, so you’ll know when to reorder and restock.
+
+From your online Square Dashboard:
+
+Visit Item Library in your online Square Dashboard.
+Select an item from the list.
+To edit inventory by item variation, you can click on the variation row.
+
+Click Adjust Inventory to change inventory counts and enter stock actions per location.
+Click Edit stock tracking to set up tracking and set alerts on inventory counts. If stock reaches or drops below the alert threshold, a stock alert will be generated.
+Click Save to confirm your update.
+From the Square Point of Sale app:
+
+Tap the three horizontal lines > Items.
+Create or select an existing item.
+Enter a stock amount under the item details or tap Prices, Sizes, or SKUs to add stock to an item with multiple variations.
+<div class="content-width-extra-small">
+
+</div>
+4. To adjust stock, tap the stock amount > select a reason > enter amount to be adjusted.
+5. Save.
+
+
+You can also go straight to step 3 by pressing and holding an item from your in-app items grid.
+
+Keep in mind, if you have multiple locations, inventory is established, edited, and tracked on a per-location basis.
+
+Note: You can also update your inventory alert settings at any time from Email Notifications in your online dashboard.
+
+Enable Inventory in Bulk
+
+You can also enable inventory from your Inventory Excel (.xlsx) or CSV report:
+
+Visit Items in your online Square Dashboard.
+Click Export.
+Open the file and add your inventory by item in the column labeled New Quantity [Location]. Any changes made to the New Quantity column will replace the existing item quantity. If you put a 0 in the New Quantity column, your inventory for that item for that location will be set to 0.
+Save the file to your computer.
+Drag and drop your saved file to the Import Inventory window > click Upload.
+Manage Inventory and Alerts In Bulk
+
+The Import tool allows you to download a report of your current inventory and update your inventory quantities in bulk. This is especially helpful for adding new inventory and verifying current stock.
+
+To download an inventory report or make updates to your inventory in bulk:
+
+Visit Items in your online Square Dashboard.
+Click Export.
+In this report, update your Stock Alert Enabled [Location] and New Quantity values and save the Excel (.xlsx) or CSV file to your computer. 
+Note: At this time, Excel (.xlsx) and CSV (.csv) file templates are the only supported file types for bulk import. Custom templates aren’t supported.
+Drag and drop your saved file to the Import Inventory window and click Upload **> **Confirm > Done.
+To print this information for your records, Visit Item Library > click Export and follow the on-screen prompts. 
+
+Note: To bulk edit or create your item library, click Import Items.
+
+Stock Actions
+
+Stock actions allow you to adjust stock levels and apply reasons. For instance, you are able to add or remove stock and assign reasons such as Stock Received, Inventory Re-Count, Damage, Theft, Loss, and Return.
+
+
+
+History
+
+You can view your inventory history and gain insights into the flow of your inventory by viewing historical adjustments.
+
+To get started:
+
+Visit Items in your online Square Dashboard.
+Click on a specific item to bring up the item details page.
+Select View Inventory History.
+
+
+You can filter by location, adjustment type, and item variation.
+Learn more about:Dashboard
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Create and Manage Items with Square Point of Sale
+
+View Article
+Apply Discounts
+
+View Article
+Create and Manage Items Online
+
+View Article
+Create and Manage Item Modifiers
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

@@ -1,0 +1,45 @@
+HOME
+TOPICS
+Square Dashboard Reporting for eCommerce API
+
+Article Contents
+
+View eCommerce Sales in Sales Summary
+View eCommerce Transaction History
+With Square’s reporting tools, you can view your API transaction history from your online Square Dashboard.
+
+View eCommerce Sales in Sales Summary
+
+To filter eCommerce transactions in your Sales Summary:
+
+From your Dashboard, click the Sales tab.
+From the Reports tab > Sales Summary.
+Click on Advanced Options.
+From the drop-down list, select Source.
+Click on All Sources > filter dropdown and select eCommerce Integrations.
+
+
+Note: The All Sources filter dropdown lists available sources based on the selected transaction data. If the transaction results are empty, the dropdown will be empty. If the transaction results only include Point of Sale transactions, the dropdown will only list “Point of Sale”.
+
+View eCommerce Transaction History
+
+To filter eCommerce transactions in your transaction history:
+
+From your online Square Dashboard, click Sales.
+Select Transactions.
+Select eCommerce Integrations from the All Payment Methods dropdown.
+
+
+Read more about using advanced reporting on our Square Dashboard.
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

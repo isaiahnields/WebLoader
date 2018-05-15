@@ -1,0 +1,55 @@
+HOME
+TOPICS
+Best Practices for eCommerce Payments
+Whether you’re using Square’s API or one of our partners, accepting eCommerce payments is great way to establish or grow your business. It’s also important to take additional precautions on these types of orders to prevent fraud and disputes. Even a successful payment could be from a card that hasn’t yet been reported as stolen or compromised.
+
+Match Billing and Shipping ZIP Codes
+
+If you’re shipping an item, check if the billing and shipping ZIP codes match. If they don’t match, reach out to your customer for verification. Their answer should make practical sense. If it doesn’t, refund the payment.
+
+Be Cautious of Requests for Immediate or Expedited Shipping
+
+Additionally you can check to see if the shipping address is a private address. Mail drop locations such as UPS stores, and freight forwarders, are commonly associated with fraud and we do not recommend shipping to them.
+
+Delivery Confirmation
+
+If you’re shipping a product, make sure to keep the tracking information and a delivery receipt. For large orders, require a signature confirmation at delivery.
+
+Monitor Declined Cards
+
+Declined cards can be a sign that someone is trying to pay using stolen credit card information. If you notice an order with mismatched billing and shipping information, review possible attempts to use multiple cards by logging into your Dashboard, selecting Sales > Transaction Status. If a customer attempted to pay with multiple cards within a short time frame, refund the successful payment.
+
+eCommerce Platform Merchants
+
+Third party eCommerce platforms (such as Bigcommerce, Weebly and Ecwid) may offer additional solutions such as Signifyd to minimize your risk. While we currently don’t offer this option, you may be able to find a solution on these platforms that works best for your business.
+
+eCommerce API Merchants
+
+If you’re using the developer API, consider passing additional information to Square about your orders such as buyer email addresses and shipping information. More order details help us better protect you, and you could be eligible for coverage under Square Chargeback Protection. Learn more about Chargeback Protection.
+Learn more about:Payments APIs
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Protect Yourself from Scams and Fraud
+
+View Article
+Best Practices for Accepting Payment Cards
+
+View Article
+Square's E-Commerce API FAQs
+
+View Article
+Square Chargeback Protection
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

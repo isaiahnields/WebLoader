@@ -1,0 +1,73 @@
+HOME
+TOPICS
+SALES HISTORY & REPORTS
+Reporting and Analytics with Multiple Employees and Locations
+
+Article Contents
+
+Sales Reporting by Location
+Track Sales by Employee
+Square’s advanced reporting features provide powerful insights that grow with your business across multiple locations, employees, and devices. You can track your sales, celebrate your top performers, and keep your finger on the pulse of your growing business.
+
+Sales Reporting by Location
+
+With Square, you can view the key metrics of your entire business, across locations. These reports keep your sales data organized and manageable. Multi-location reporting provides the following for each of your locations:
+
+Sales Summary
+Sales Trends
+Payment Methods
+Item Sales
+Category Sales
+Mobile Staff Sales
+Employee Sales
+Discounts
+Modifier Sales
+Taxes
+Gift Cards
+Review sales reports by location:
+
+Visit Sales in your online Square Dashboard.
+Click Sales Summary or Transactions > click the locations selector.
+Select a location.
+Learn more about the information available in your reports and building custom reports to meet your business needs.
+
+Track Sales by Employee
+
+Enabling Employee Permissions allows you to track sales by employees using their Register Passcode. 
+  
+To view your Employee Sales report:
+
+Log in to your Master account.
+Visit the Employee Sales report under Reports > view all transactions by employee.
+Visit the Mobile Staff Sales report to see payments accepted by Mobile Staff employees.
+
+Note: Exporting transaction reports by employee is not yet available.
+
+Learn more about Square’s advanced reporting options.
+Learn more about:Multi-Location Management
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Transaction Status Report
+
+View Article
+Advanced Reporting
+
+View Article
+Summaries and Reports from the Online Dashboard
+
+View Article
+Creating Custom Reports in the Online Dashboard
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

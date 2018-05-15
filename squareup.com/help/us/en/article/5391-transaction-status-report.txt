@@ -1,0 +1,50 @@
+HOME
+TOPICS
+SALES HISTORY & REPORTS
+Transaction Status Report
+
+Article Contents
+
+Charge or Cancel Uncompleted Transactions
+Your Transaction Status report gives you information about any unprocessed transactions, including declined and canceled transactions, expired Offline Mode transactions, and other uncompleted transactions in which a customer’s card was swiped, inserted, or manually entered, but not charged. Find more information on how to prevent payment declines.
+
+To view your Transaction Status report, visit the Sales tab in your online Square Dashboard.
+
+Charge or Cancel Uncompleted Transactions
+
+If a transaction is uncompleted and falls within 30 days of the initial authorization date, you may be able to request to charge or cancel the transaction. Uncompleted transactions that haven’t been manually canceled or charged within 30 days of the initial authorization date are automatically canceled.
+
+Any actionable, uncompleted transactions within the past 30 days will appear in your Transactions Status report with options to cancel or charge.
+
+To request to complete a transaction, click Charge and confirm your request. It may take up to 10 minutes for the charge to appear on your account activity. We can’t guarantee that your request to charge this transaction will be successful.
+
+Note: To help prevent double charging, check your Transaction history for duplicate charges to be sure your customer hasn’t already paid.
+
+To request to cancel an uncompleted transaction, click Cancel and confirm your request.
+Learn more about:Dashboard
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Summaries and Reports from the Online Dashboard
+
+View Article
+Transaction Search
+
+View Article
+Why Did My Payment Fail?
+
+View Article
+Manually Key In Card Payments Without the Square Reader
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses

@@ -1,0 +1,105 @@
+HOME
+TOPICS
+EMPLOYEE SETTINGS
+Get Started with Employee Management
+
+Article Contents
+
+Create Employee Roles and Assign Permissions
+Manage Employees
+Enable Employee Management on the Square App
+Square Payroll
+Square has tools to help you manage your team easily, across various locations and roles. With Employee Management, you can maintain staff timecards, control employee permissions, and access advanced reporting tools. Once you’ve set up your employees, you can then pay them through Square Payroll.
+
+Create Employee Roles and Assign Permissions
+
+Define and restrict what your different employees can access from the Square app and online Square Dashboard with employee roles and permissions. Employee permissions also add a new level of account security – you decide which of your employees have dashboard access, can modify your item library, manage employee permissions, issue refunds, and more.
+
+To give an employee or associate permission to contact Square Support to discuss account-specific information, you have the ability to add them as an Authorized Representative for free. This is a great option for individuals who just need to call Square Support, but don’t need access to taking payments.
+
+For employees who only need the ability to accept payments from their own mobile device, you can invite them to become Mobile Staff for free.
+
+Create a New Employee Role
+
+Sign in to the Employees section of your online Square Dashboard > Permissions.
+Click Create Role > enter a role name (e.g. Cashier, Manager, Delivery Driver).
+Select where you would like to give an employee access:
+Access Shared Point of Sale: Allow this employee to access your Point of Sale using a 4-digit passcode (e.g. multiple employees sharing the same point of sale).
+Access Dashboard: Allow this employee to sign in to your Dashboard using their own email and password.
+Access Mobile Point of Sale: Allow this employee to sign in to any Point of Sale app using their own email and password (e.g. employees taking payments on-the-go).
+Access Appointments: Allow this employee to access Appointments using their own email and password. This includes access to their own calendar. Note: Only for sellers subscribed to Square Appointments.
+Check the box for every permission you would like to give an employee access to.
+Click Save.
+Manage Employees
+
+Once you’ve created Employee Roles, you’re ready to create employees. An employee is anyone who has access to your Square account.
+
+Create a New Employee
+
+From the Employee List in your online Square Dashboard, click Create Employee.
+Enter the employee’s name and personal information.
+To allow your employee to log in to the Square app to accept payments, toggle on Permissions and select or create a role from the dropdown menu.
+To allow your employee to sign into the Square app using a passcode, enter a custom 4-digit passcode or click Generate to create one at random.
+If your employee’s role allows them to access Dashboard or the Square app on their own device, enter the email address they will use to log in.
+This employee will be invited via email to create their own login for accessing Dashboard and/or the Square app on their personal device.
+
+Deactivate an Employee
+
+If an employee leaves your business – either permanently or temporarily – you can deactivate their account. You won’t pay for deactivated employees, their account information is saved for your records, and you can reactivate them at any time.
+
+From the Employee List in your online Square Dashboard, click the name of an employee.
+Click Deactivate > Deactivate Employee.
+Note: Your employee’s information will not be lost or deleted once they are deactivated.
+
+Reactivate an Employee
+
+From the Employee List in your online Square Dashboard, click the status drop-down menu on the left > click All.
+Click on the employee’s name > Reactivate.
+To allow your employee to log in to the Square app to accept payments, toggle on Permissions and select or create a role from the dropdown menu.
+To allow your employee to sign into the Square app using a passcode, enter a custom 4-digit passcode or click Generate to create one at random.
+If your employee’s role allows them to access Dashboard or the Square app on their own device, enter the email address they will use to log in.
+Note: It is important to retain this for your records because this is the passcode your employee will use to access a register with employee management enabled.
+
+Enable Employee Management on the Square App
+
+Once you’ve created permission groups and employees, you’re ready to enable Employee Management in the Square App.
+
+Open the Square App and sign in with your email or a device code. If you sign in using a device code, be sure to enter your passcode with permissions to manage settings.
+Tap the three horizontal lines to visit the navigation menu.
+Tap Settings > Employee Management.
+Under Require Employee Passcode, select Always.
+Enter your register passcode to save these changes.
+Select a preferred time-out period for the Square app.
+Tap your initials on the bottom right to allow your employee to log in and begin accepting payments.
+Square Payroll
+
+Square Payroll integrates with our employee management features. Employees can clock in and out from your Square app and our team handles your federal and state payroll tax payments and filings. Learn more about Square’s online payroll service.
+
+Note: Square stores data in the U.S. and other countries. You may be required to notify your employees of this fact and obtain their consent before storing their information.
+Learn more about:Employee Management
+Help us improve our Support Center. Was this article helpful?
+YES
+NO
+Related Articles
+
+Create Multiple Square Point Of Sale Accounts
+
+View Article
+Timecard Management with Square
+
+View Article
+Employee Permissions
+
+View Article
+Manage Passcode Access
+
+View Article
+Still need help? Ask the community
+
+Visit community forum
+ 
+ 
+© 2009–2018 Square, Inc.
+Privacy Policy
+Legal
+Licenses
