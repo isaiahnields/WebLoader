@@ -24,7 +24,7 @@ WebLoader is compatible with PhantomJS version 2.1.1.
 
 ## Set Up
 
-1. [Install PhantomJS](http://phantomjs.org/download.html) for your operating system.
+1. Install PhantomJS for your operating system: http://phantomjs.org/download.html.
 2. Download the WebLoader repository and unzip the code.
 3. You're done!
 
