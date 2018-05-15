@@ -1,5 +1,5 @@
-# CompetitorScraper
-A web scraper to spy on your business competitors!
+# WebsiteDownloader
+A website downloader with a built in JavaScript engine!
 
 ![Build passing](https://img.shields.io/badge/build-passing-brightgreen.svg)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/isaiahnields/SearchQueue/blob/master/LICENSE)
@@ -15,6 +15,8 @@ A web scraper to spy on your business competitors!
 [Future Goals](#future-goals)<br />
 
 ## Purpose
+
+
 
 ## Compatibility
 
