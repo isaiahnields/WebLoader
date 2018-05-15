@@ -1,5 +1,5 @@
 # CompetitorScraper
-A web scraper to spy on your competitors!
+A web scraper to spy on your business competitors!
 
 ![Build passing](https://img.shields.io/badge/build-passing-brightgreen.svg)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/isaiahnields/SearchQueue/blob/master/LICENSE)
