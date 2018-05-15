@@ -32,7 +32,7 @@ WebLoader is compatible with PhantomJS version 2.1.1 and above.
 
 There are two main ways to download a website with WebLoader:
 
-#### 1. Full
+#### 1. Full Download
 
 A full website download involves downloading every page that is present on a given host.
 
@@ -42,7 +42,7 @@ To run a full website download, run a command of the following form:
 phantomjs loader.js https://example.com
 ```
 
-#### 2. Partial
+#### 2. Partial Download
 
 A partial website download involves downloading pages that are in a specific path on the host.
 
