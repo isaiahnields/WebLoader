@@ -34,7 +34,9 @@ There are two main ways to download a website with WebLoader:
 
 #### 1. Full
 
-A full website download involves downloading every page that is present on a given host. To run a full website download the following command must be run:
+A full website download involves downloading every page that is present on a given host.
+
+To run a full website download, run the following command:
 
 ```
 phantomjs loader.js https://example.com/
