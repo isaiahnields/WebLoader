@@ -74,7 +74,7 @@ page.onLoadFinished = function()
     }
 
     // save the page's plain text at the url path to the computer
-    fs.write(url.substring(8) + '.txt', page.plainText, 'w');
+    fs.write('results/' + url.substring(8) + '.txt', page.plainText, 'w');
 
 };
 
