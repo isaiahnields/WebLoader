@@ -1,4 +1,4 @@
-# Web Loader
+# <img src="https://raw.githubusercontent.com/isaiahnields/web-loader/master/logo.png" width="48"> Web Loader
 
 > A website downloader with a built-in JavaScript engine!
 
