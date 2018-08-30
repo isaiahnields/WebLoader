@@ -1,4 +1,4 @@
-# WebLoader
+# Web Loader
 
 > A website downloader with a built-in JavaScript engine!
 
