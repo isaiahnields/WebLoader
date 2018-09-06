@@ -16,11 +16,11 @@
 
 ## Purpose
 
-The purpose of WebLoader is to give a user the ability to download portions of or entire websites.
+The purpose of Web Loader is to give a user the ability to download portions of or entire websites.
 
 ## Compatibility
 
-WebLoader is compatible with PhantomJS version 2.1.1 and above.
+Web Loader is compatible with PhantomJS version 2.1.1 and above.
 
 ## Set Up
 
@@ -30,7 +30,7 @@ WebLoader is compatible with PhantomJS version 2.1.1 and above.
 
 ## Functionality
 
-There are two main ways to download a website with WebLoader:
+There are two main ways to download a website with Web Loader:
 
 #### 1. Host Download
 
