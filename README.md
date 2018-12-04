@@ -54,7 +54,7 @@ phatomjs loader.js https://example.com /example/path
 
 ## Use Cases
 
-There are a few uses cases for this software:
+There are a few use cases for this software:
 
 #### 1. Detect Website Changes
 
